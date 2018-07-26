@@ -5,4 +5,5 @@ fun main(args:Array<String>){
 	println("Open Hello World With Vim!!!")
 	println("Add a New String!!")
 	println("to check git diff")
+	println("add This For Remote Repo")
 }
