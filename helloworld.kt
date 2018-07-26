@@ -6,4 +6,5 @@ fun main(args:Array<String>){
 	println("Add a New String!!")
 	println("to check git diff")
 	println("add This For Remote Repo")
+	println("add This For Merge Branch")
 }
