@@ -8,5 +8,6 @@ fun main(args:Array<String>){
 	println("add This For Remote Repo")
 	println("add This For Merge Branch")
 	println("For See Commit Tips")
+	println("For merge Branch")
 
 }
