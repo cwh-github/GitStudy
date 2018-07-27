@@ -8,4 +8,5 @@ fun main(args:Array<String>){
 	println("add This For Remote Repo")
 	println("add This For Merge Branch")
 	println("add This For Merge Dev Branch")
+	println("add This For Test Confict")
 }
