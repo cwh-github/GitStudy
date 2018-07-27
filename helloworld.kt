@@ -11,6 +11,6 @@ fun main(args:Array<String>){
 	println("For merge Branch")
 	println("add This For Merge Dev Branch")
 
-	println("add This For Test Conficts")
+	println("add This For Test Confict")
 
 }
