@@ -9,5 +9,6 @@ fun main(args:Array<String>){
 	println("add This For Merge Branch")
 	println("For See Commit Tips")
 	println("For merge Branch")
+	println("add This For Merge Dev Branch")
 
 }
