@@ -12,10 +12,9 @@ fun main(args:Array<String>){
 	println("add This For Merge Dev Branch")
 
 	println("add This For Test Conficts")
-<<<<<<< HEAD
+
 	println("this come from dev2")
-=======
+
 	println("this come from dev1")
 
->>>>>>> b378a03010a9762cead76837ee4ba3f8f0d8da1e
 }
