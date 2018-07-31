@@ -12,5 +12,15 @@ fun main(args:Array<String>){
 	println("add This For Merge Dev Branch")
 
 	println("add This For Test Confict")
+<<<<<<< HEAD
+=======
+
+	println("this come from dev2")
+
+	println("this come from dev1")
+
+
+	println("this is For Commit")
+>>>>>>> dev
 
 }
